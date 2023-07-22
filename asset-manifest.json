@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Suhas-folio/static/css/main.5bd42940.css",
-    "main.js": "/Suhas-folio/static/js/main.04dbc2b5.js",
+    "main.js": "/Suhas-folio/static/js/main.de0b8c62.js",
     "static/media/mePhoto.jpg": "/Suhas-folio/static/media/mePhoto.9f6655c7ac7f6662ab22.jpg",
     "index.html": "/Suhas-folio/index.html",
     "main.5bd42940.css.map": "/Suhas-folio/static/css/main.5bd42940.css.map",
-    "main.04dbc2b5.js.map": "/Suhas-folio/static/js/main.04dbc2b5.js.map"
+    "main.de0b8c62.js.map": "/Suhas-folio/static/js/main.de0b8c62.js.map"
   },
   "entrypoints": [
     "static/css/main.5bd42940.css",
-    "static/js/main.04dbc2b5.js"
+    "static/js/main.de0b8c62.js"
   ]
 }
