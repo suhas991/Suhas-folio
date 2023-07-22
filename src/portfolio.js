@@ -2,7 +2,7 @@ import aboutpic from "./components/Access/mePhoto.jpg"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: '',
+  homepage: 'https://suhas991.github.io/Suhas-folio/',
   title: '‽Ο.',
 }
 
@@ -57,14 +57,14 @@ const projects = [
     description:
       'Grow More is a static stock market project designed to provide users with a user-friendly and informative platform to explore and analyze stock market data. The project aims to offer a simplified interface for tracking stock prices, historical data, and visualizing trends, empowering users to make informed investment decisions.',
     stack: ['C++','File-Handling'],
-    sourceCode: 'https://github.com/Morganbb104/M7-project2-musictore-recommendations-Huang_Chengchien',
+    sourceCode: 'https://github.com/suhas991/Grow-more',
   },
   {
     name: 'Venture Tank',
     description:
       'Venture Tank is a front-end web application designed to showcase and promote an initiative taken by the Computer Science Department. The main objective of the initiative is to encourage students from all branches to present their innovative ideas. The web application serves as an online platform for participants and visitors to explore and engage with the event.',
     stack: ['Vue.js','Bootstrap'],
-    sourceCode: 'https://github.com/Morganbb104/M7-project2-musictore-recommendations-Huang_Chengchien',
+    sourceCode: 'https://github.com/suhas991/VentureTank',
   }
 ]
 
